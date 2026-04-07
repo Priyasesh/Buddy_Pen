@@ -1,6 +1,6 @@
 /*
 =============================================================
-  app.js — LinguaFlow
+  app.js — BuddyPen
   ONLY responsible for: behavior, API calls, DOM updates, animations
   This file NEVER contains styling — that lives in style.css
   This file NEVER contains HTML structure — that lives in index.html

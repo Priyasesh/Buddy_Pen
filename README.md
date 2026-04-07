@@ -1,4 +1,4 @@
-# LinguaFlow — Multilingual Translation System Data Flow Explorer
+# Buddy Pen — Multilingual Translation System Data Flow Explorer
 
 A browser-based interactive visualizer that demonstrates how raw multilingual input data is captured, structured, transformed, and validated across a real-time translation pipeline.
 
@@ -8,8 +8,7 @@ Built as a portfolio project to showcase data flow analysis, real-time API integ
 
 ## Live Demo
 
-🔗 **[View Live on GitHub Pages](https://yourusername.github.io/linguaflow)**
-*(Replace `yourusername` with your actual GitHub username after deploying)*
+🔗 **[View Live on GitHub Pages](https://priyasesh.github.io/Buddy_Pen/)**
 
 ---
 
@@ -56,7 +55,7 @@ This project simulates and visualizes a 5-stage multilingual data processing pip
 ## Project Structure
 
 ```
-linguaflow/
+Buddy Pen/
 ├── index.html        # HTML structure only — the skeleton of the page
 ├── css/
 │   └── style.css     # All styling — colors, fonts, layout, animations
@@ -80,8 +79,8 @@ No installation required. This is a static website — just open the file.
 
 ```bash
 # Optional: Clone via Git
-git clone https://github.com/yourusername/linguaflow.git
-cd linguaflow
+git clone https://github.com/Priyasesh/Buddy_Pen.git
+cd Buddy Pen
 open index.html
 ```
 
@@ -117,7 +116,7 @@ Improved consistency and efficiency in handling multilingual data outputs and en
 
 **Vishnupriya Seshadri**
 M.Eng. Electrical & Computer Engineering (Electronics)
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/vishnupriyaseshadri/) · [GitHub](https://github.com/Priyasesh)
 
 ---
 
